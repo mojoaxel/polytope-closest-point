@@ -34,7 +34,7 @@
     "3d"
   ],
   "author": "Mikola Lysenko",
-  "license": "BOOST",
+  "license": "BSL-1.0",
   "readmeFilename": "README.md",
   "gitHead": "bb0d7df62f074dfb2354b04aa414e29083deb98a"
 }
